@@ -1,0 +1,12 @@
+Parsing boot image: [/home/j/Downloads/extract-via-magiskboot-main/vendor_boot.img]
+VENDOR_BOOT_HDR
+HEADER_VER      [4]
+RAMDISK_SZ      [43275541]
+DTB_SZ          [444841]
+PAGESIZE        [4096]
+NAME            []
+CMDLINE         [bootopt=64S3,32N2,64N2 erofs.reserved_pages=64]
+RAMDISK_FMT     [lz4_legacy]
+RAMDISK_FMT_recovery [lz4_legacy]
+unexpected ASN.1 DER tag: expected SEQUENCE, got APPLICATION [1] (primitive)
+VBMETA
